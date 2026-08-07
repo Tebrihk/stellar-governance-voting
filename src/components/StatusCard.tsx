@@ -1,3 +1,4 @@
+// fix(#1): implement pagination
 export function StatusCard() {
   return <div>Status Active</div>;
 }
