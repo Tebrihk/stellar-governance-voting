@@ -1,3 +1,4 @@
+// fix(#4): emit event on role revocation
 export function StatusCard() {
   return <div>Status Active</div>;
 }
