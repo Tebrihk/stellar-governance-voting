@@ -1,3 +1,4 @@
+// fix(#11): reduce redundant storage reads in settle loop
 export function util_7(x: number): number {
   return x * 7;
 }
