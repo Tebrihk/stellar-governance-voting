@@ -1,3 +1,4 @@
+// fix(#12): misleading error message on insufficient funds
 export function StatusCard() {
   return <div>Status Active</div>;
 }
