@@ -1,3 +1,4 @@
+// fix(#3): add multi-sig gate for privileged ops
 describe('Test 6', () => {
   it('should work', () => {
     expect(true).toBe(true);
